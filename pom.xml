@@ -23,12 +23,10 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-	    <groupId>com.github.ApproxTeam</groupId>
-	    <artifactId>KeyBean</artifactId>
-	    <version>v1.0-SNAPSHOT</version>
-            <scope>system</scope>
-            <systemPath>/home/razikus/NetBeansProjects/KeyBean/target/KeyBean-1.0-SNAPSHOT.jar</systemPath>
-	</dependency>
+        <groupId>com.github.ApproxTeam</groupId>
+        <artifactId>JEE-KeyBean</artifactId>
+        <version>v1.0.1</version>
+        </dependency>
         <dependency>
             <groupId>org.junit</groupId>
             <artifactId>junit4-runner</artifactId>
